@@ -7,8 +7,9 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Basic Banking Website",
         text: "thriving Facebook community and top-ranked podcasts, Amy inspires a grounded, tangible and self-affirming sense of Wow! I really can do theis for a over 10000 online entrepreneures. Best-Selling marketing courses",
-        view: " https://banking-website-uk.netlify.app/",
-        source: " https://github.com/Tech-Balveer/banky"
+        view: "https://banking-website-uk.netlify.app/",
+        source: "https://github.com/Tech-Balveer/banky"
+        
     },
 
     {

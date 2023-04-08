@@ -1,5 +1,5 @@
 import "./FooterStyles.css";
-
+import { Link } from "react-router-dom";
 import React from 'react'
 import {  FaGithub, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone } from "react-icons/fa";
 
@@ -12,18 +12,18 @@ const Footer = () => {
                 <FaHome size={20} style={{color:"#fff",marginRight:"2rem"}}/>
 
                 <div>
-                    <p>123 Housing Society</p>
+                    <p>Bandiya Bhatta, Kichha</p>
                     <p>Uttarakhand.</p>
                 </div>
             </div>
 
             <div className="phone">
-            <h4><FaPhone size={20} style={{color:"#fff", marginRight:"2rem"}}/>1-2323-343-23</h4>
+            <h4><FaPhone size={20} style={{color:"#fff", marginRight:"2rem"}}/>+91 8076524697</h4>
             
             </div>
 
             <div className="email">
-            <h4><FaMailBulk size={20} style={{color:"#fff", marginRight:"2rem"}}/>ballu@gmail.com</h4>
+            <h4><FaMailBulk size={20} style={{color:"#fff", marginRight:"2rem"}}/>balveersingh55626@gmail.com</h4>
             
             </div>
 
@@ -36,12 +36,17 @@ const Footer = () => {
             I am a student and i am currentry doing new thing</p>
 
             <div className="social"> 
+            <Link to="https://www.linkedin.com/in/balveer-singh-a73001222/">
+            <FaLinkedin  size={30} style={{color:"#fff", marginRight:"1rem"}} />
+            </Link>
 
-            <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem"}}/>
-
-            <FaGithub size={30} style={{color:"#fff", marginRight:"1rem"}}/>
-
+            <Link to="https://github.com/Tech-Balveer">
+            <FaGithub size={30} style={{color:"#fff", marginRight:"1rem" }}/>
+            </Link>
+            
+            <Link to="https://www.instagram.com/bal_veer._.singh_/">
             <FaInstagram size={30} style={{color:"#fff", marginRight:"1rem"}}/>
+            </Link>
 
             </div>
         </div>
