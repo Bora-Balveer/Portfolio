@@ -31,9 +31,8 @@ const Footer = () => {
         </div>
 
         <div className="right">
-            <h4>About the Company </h4>
-            <p>this is ballu . the fronend devloper .
-            I am a student and i am currentry doing new thing</p>
+            <h4>About Me</h4>
+            <p>I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you!</p>
 
             <div className="social"> 
             <Link to="https://www.linkedin.com/in/balveer-singh-a73001222/">
