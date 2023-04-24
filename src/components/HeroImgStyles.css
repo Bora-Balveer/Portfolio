@@ -20,7 +20,7 @@
   top: 0;
   left: 0;
   background-color: #000;
-  opacity: 0.8;
+  opacity: 0.3;
 }
 
 .hero {
@@ -42,7 +42,7 @@
 }
 
 .hero .content p{
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   font-weight: 200;
   text-transform: uppercase;
 }

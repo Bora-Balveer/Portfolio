@@ -49,6 +49,37 @@
     z-index: 5;
 }
 
-ul{
+/* ul{
     color: white;
-}
+} */
+  
+  .skills h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+    
+  .skills li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    width: 16rem;
+  }
+  
+  .skills svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: 1rem;
+    fill: rgb(240, 255, 28);
+  }
+  
+  .skills span {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: white;
+  }
+
+
+
+  
