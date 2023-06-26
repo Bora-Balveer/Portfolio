@@ -7,9 +7,9 @@
 
 .hero-img::before{
     content: "";
-    background: url("https://img.freepik.com/free-photo/gadgets-black-background_53876-31670.jpg?w=900&t=st=1682353741~exp=1682354341~hmac=aa827c07a1717b4622bf3a0678805efa53ae053c788f7e38f8df353a53ecb6bc");
+    /* background: url("https://img.freepik.com/free-photo/gadgets-black-background_53876-31670.jpg?w=900&t=st=1682353741~exp=1682354341~hmac=aa827c07a1717b4622bf3a0678805efa53ae053c788f7e38f8df353a53ecb6bc"); */
 
-    background: url("https://img.freepik.com/premium-photo/modern-dark-workspace-with-copy-space-black-leather-background-3d-render_67155-18266.jpg?w=1060");
+    /* background: url("https://img.freepik.com/premium-photo/modern-dark-workspace-with-copy-space-black-leather-background-3d-render_67155-18266.jpg?w=1060"); */
 
     background: url("https://img.freepik.com/free-photo/top-view-photo-camera-with-copy-space_23-2148666236.jpg?w=1060&t=st=1682354226~exp=1682354826~hmac=9982a01a0be838e9134150a4b238118d3752420e0034682babc8580b9493d8fe");
     background-size: cover;
