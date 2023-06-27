@@ -1,6 +1,7 @@
 import pro1 from "../assets/project1.jpg"
-import pro2 from "../assets/project2.jpg"
+// import pro2 from "../assets/project2.jpg"
 import pro3 from "../assets/project3.jpg"
+import pro2 from "../assets/project4.jpeg"
 
 const ProjectCardData = [
     {
@@ -14,10 +15,10 @@ const ProjectCardData = [
 
     {
         imgsrc: pro2,
-        title: "Blog Website",
-        text: "thriving Facebook community and top-ranked podcasts, Amy inspires a grounded, tangible and self-affirming sense of Wow! I really can do theis for a over 10000 online entrepreneures. Best-Selling marketing courses",
-        // view: " https://lnkd.in/dNSt2M_p",
-        // source: " https://lnkd.in/dpE-Ki-a"
+        title: "YT clone website",
+        text: "Watch and share videos with the world. Our YouTube clone website allows you to watch and share videos with your friends and family. This website has many categories",
+        view: "https://yt-cloneweb.netlify.app/",
+        source: "https://github.com/Tech-Balveer/YT_Clone"
     },
 
     {
